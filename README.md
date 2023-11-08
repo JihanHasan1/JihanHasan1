@@ -1,11 +1,10 @@
-### Hi there 👋, I'm Jihan Hasan
+## Hi 👋
+### I'm Jihan Hasan
 #### A Computer Science & Engineering Student
 I'm passionate about learning something new everyday. I enjoy tackling complex challenges and transforming ideas into reality. My journey in the tech world is marked by continuous learning, experimentation, and a commitment to staying at the forefront of the ever-evolving software landscape. I have also some experience on Graphics Design.
 Let's connect, collaborate, and create something amazing together !
 
-Skills: C / JAVA / HTML / CSS / XML / SQLITE / MYSQL
-
-- 👯 I’m looking to collaborate on Github 
+Skills: C / JAVA / PHP / HTML / CSS / XML / SQLITE / MYSQL
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JihanHasan1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jihan-hasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/jihanhasan)  
