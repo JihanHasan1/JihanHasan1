@@ -8,8 +8,3 @@ Skills: C / JAVA / PHP / HTML / CSS / XML / SQLITE / MYSQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihanHasan1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/JihanHasan1)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=JihanHasan1)  
-
-![Profile views](https://gpvc.arturio.dev/JihanHasan1)  
